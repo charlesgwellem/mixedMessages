@@ -1,1 +1,1 @@
-For this project, you will build a message generator program.
+codecademy project for mixed messages
