@@ -1,2 +1,2 @@
-Below is a programme. Each time the greeting fuction is run, an individual gets greeted with three mixed messages, each of which is randomly selected. The first message is a randomly selected zodiac sign (options include Aquarius, Pisces, Aries and Taurus). 
+This is my programme. Each time the greeting fuction is run, an individual gets greeted with three mixed messages, each of which is randomly selected. The first message is a randomly selected zodiac sign (options include Aquarius, Pisces, Aries and Taurus). 
 Then follows an inspirational message and finally a nonsense message which consist of senseless words from a dialect I speak.
